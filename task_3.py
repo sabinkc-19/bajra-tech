@@ -3,7 +3,7 @@ chest = {
 	'666': 'If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.',
 	'8':'It is wrong always, everywhere and for everyone, to believe anything upon insufficient evidence. ',
 	'13':'the truth is in the heart.',
-	'0': 'freedom is securednot by the fullfilling of ones desires, but by the removal of desire.',
+	'0': 'freedom is secured not by the fullfilling of ones desires, but by the removal of desire.',
 	'9': 'The unexpected life is not worth living.',
 	'76': 'Life is series of natural and spontaneous changes.',
 	'70': 'God is dead! He reamins dead! And we have killed him.'
